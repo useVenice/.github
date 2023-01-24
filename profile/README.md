@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/language-TypeScript-blue)
 
 <p align="center">
-  <img src="/github.png" alt="Venice is the backend for finance" width="600"> 
+  <img src="/profile/github.png" alt="Venice is the backend for finance" width="600"> 
 </p>
 
 
@@ -15,7 +15,7 @@ Get early access & the chance to use Venice for free for now.
 
 <p>
   <a href="https://venice.is/early-access/apply" rel="nofollow">
-    <img src="/early-access.png" alt="Request early access" width="200">
+    <img src="/profile/early-access.png" alt="Request early access" width="200">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Join our community of founders and engineers building the future of finance.
 
 <p>
   <a href="https://discord.gg/gTMch6Gn2u" rel="nofollow">
-    <img src="/join-discord.png" alt="Join us on Discord" width="200">
+    <img src="/profile/join-discord.png" alt="Join us on Discord" width="200">
   </a>
 </p>
 
