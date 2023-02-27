@@ -15,7 +15,7 @@ Get frictionless financial data in just a few minutes!
 
 <p>
   <a href="https://app.venice.is" rel="nofollow">
-    <img src="/github/sign-up.png" alt="Sign up" width="135">
+    <img src="/profile/sign-up.png" alt="Sign up" width="135">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Join our community of founders and engineers building the future of finance
 
 <p>
   <a href="https://discord.gg/gTMch6Gn2u" rel="nofollow">
-    <img src="/github/join-community.png" alt="Join us on Discord" width="219">
+    <img src="/profile/join-community.png" alt="Join us on Discord" width="219">
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Read the docs to give yourself (& your customers) superpowers
 
 <p>
   <a href="https://docs.venice.is" rel="nofollow">
-    <img src="/github/read-docs.png" alt="Read out docs" width="196">
+    <img src="/profile/read-docs.png" alt="Read out docs" width="196">
   </a>
 </p>
 
