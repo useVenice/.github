@@ -15,7 +15,7 @@
 Get frictionless financial data in just a few minutes!
 
 <p>
-  <a href="https://app.venice.is" rel="nofollow">
+  <a href="https://www.venice.is" rel="nofollow">
     <img src="/profile/sign-up.png" alt="Sign up" width="135">
   </a>
 </p>
