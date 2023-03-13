@@ -53,7 +53,7 @@ These add massive risk & cost to all (especially to your customers if you're slo
 ## What is Venice?
 
 **Venice is building open source infrastructure to enable the frictionless movement
-of financial data.** [Sign up](https://app.venice.is) to get financial data in minutes.
+of financial data.** [Sign up](https://www.venice.is) to get financial data in minutes.
 
 Our first product is a fully hosted backend with an integrated Plaid data pipeline
 that enables developers (frontend devs / no code tools / data analysts) to build
